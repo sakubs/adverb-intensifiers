@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Intensifiers</string>
+    <string name="instructionText">Please use the intensifier to describe the picture.</string>
+    <string name="get_word">Get Word</string>
+    <string name="change_image">Change Image</string>
+    <string-array name="intensifiers">
+        <item>pretty</item>
+        <item>very</item>
+        <item>really</item>
+        <item>strongly</item>
+        <item>extraordinarily</item>
+        <item>seriously</item>
+        <item>extremely</item>
+        <item>highly</item>
+        <item>certainly</item>
+        <item>tremendously</item>
+    </string-array>
+    <string-array name="topics">
+        <item>pizza</item>
+        <item>beer</item>
+        <item>the beach</item>
+        <item>rain</item>
+        <item>the mountains</item>
+        <item>snow</item>
+        <item>traveling</item>
+        <item>spicy food</item>
+        <item>movies</item>
+        <item>U.S.A.</item>
+    </string-array>
+</resources>
+
