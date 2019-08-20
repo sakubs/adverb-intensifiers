@@ -1,8 +1,9 @@
 <resources>
     <string name="app_name">Intensifiers</string>
     <string name="instructionText">Please use the intensifier to describe the picture.</string>
-    <string name="get_word">Get Word</string>
-    <string name="change_image">Change Image</string>
+    <string name="get_word">Next</string>
+    <string name="start">Press "Next" button to start</string>
+    <string name="finished">You have seen them all. Well done!</string>
     <string-array name="intensifiers">
         <item>pretty</item>
         <item>very</item>
@@ -28,4 +29,3 @@
         <item>U.S.A.</item>
     </string-array>
 </resources>
-
